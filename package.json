@@ -1,7 +1,7 @@
 {
-  "name": "hexo-renderer-stylus",
-  "version": "0.3.0",
-  "description": "Stylus renderer plugin for Hexo",
+  "name": "hexo-renderer-sksj",
+  "version": "0.1.0",
+  "description": "Stylus renderer plugin for Hexo with Kouto-Swiss and Jeet",
   "main": "index",
   "scripts": {
     "test": "gulp test"
@@ -12,7 +12,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "repository": "hexojs/hexo-renderer-stylus",
+  "repository": "fiuzagr/hexo-renderer-sksj",
   "keywords": [
     "hexo",
     "stylus",
@@ -22,11 +22,10 @@
     "styl",
     "renderer"
   ],
-  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "author": "fiuzagr",
   "license": "MIT",
   "dependencies": {
     "stylus": "^0.52.0",
-    "nib": "^1.1.0",
     "kouto-swiss": "~0.11.13",
     "jeet": "~6.1.2"
   },

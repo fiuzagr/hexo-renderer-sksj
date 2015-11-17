@@ -26,7 +26,9 @@
   "license": "MIT",
   "dependencies": {
     "stylus": "^0.52.0",
-    "nib": "^1.1.0"
+    "nib": "^1.1.0",
+    "kouto-swiss": "~0.11.13",
+    "jeet": "~6.1.2"
   },
   "devDependencies": {
     "chai": "^1.9.1",
